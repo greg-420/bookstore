@@ -8,7 +8,7 @@ It provides APIs to:
 - Find books by title/author (**GET** with path variables)
 - Delete a book (**DELETE**)
 
-##Roles
+## Roles
 The User role has permissions to create, update and find books. The Admin role has permissions to delete a book.
 
 ## Security
